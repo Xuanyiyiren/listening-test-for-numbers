@@ -1,6 +1,6 @@
 # Listing Number Test
 
-IELTS listening test will examine your ability to catch a string of numbers, such as ID card Number, phone number, airport number and so on. Most of the time you have only one changce to listen the number.
+IELTS listening test will examine your ability to catch a string of numbers, such as ID card Number, phone number, airport number and so on. Most of the time you have only one changce to listen the string.
 
 In order to practice my ability to capture numbers in the listening exam, my friend and I wrote this not book on Colab to generate audios with random number strings and to play them automatically(Colab do not have audio-play device, so we can only use `IPython.display` instead of `pygame` to display the audio, which means you have to click it at the result below.)
 
